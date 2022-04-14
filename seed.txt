@@ -1,0 +1,512 @@
+bad times:c4
+couldn't sleep:c3
+live:c2
+new home:c2
+cannot watch:c3
+lost my:c3
+annoying:c3
+thankyou:c2
+very exciting:c1
+stupid rain:c3
+good feeling:c2
+stress:c3
+good girl:c2
+good taste:c2
+dont want:c3
+terrible:c4
+Happy birthday:c2
+last night:c2
+great night:c1
+big fan:c2
+gorgeous day:c1
+huge fan:c1
+good advice:c2
+nice pic:c2
+good plan:c2
+beautiful morning:c1
+panic attack:c4
+sad day:c4
+bad mood:c4
+good show:c2
+cant sleep:c3
+bored:c3
+great music:c1
+happy hour:c1
+enough:c3
+sick again:c3
+good life:c2
+very sick:c3
+great morning:c1
+restful:c2
+unhappy:c4
+first time:c2
+past:c3
+scary movie:c4
+love it:c1
+disturbed:c3
+perfect day:c2
+sleepy time:c2
+sad:c4
+good home:c1
+do not:c3
+sleepy:c2
+good day:c2
+superhappy:c1
+amazing person:c1
+sorry:c3
+fed up:c3
+calming:c2
+jealous:c3
+congrats:c2
+great news:c1
+especially:c2
+serene:c2
+depressed:c4
+good way:c2
+hungry:c3
+busy today:c3
+sunny day:c3
+I hate:c4
+stressed:c3
+nice way:c2
+love you:c1
+cannot sleep:c3
+nice walk:c2
+cheer:c1
+lonely:c3
+consent:c2
+am tired:c3
+good movie:c2
+glad:c1
+not nice:c3
+poor:c3
+super cool:c1
+slow:c2
+badly:c4
+real:c2
+hope:c2
+contentment:c2
+bad cold:c3
+much pain:c3
+good timefollow:c2
+awesome time:c1
+fire:c3
+Good thing:c2
+sleep:c2
+broken heart:c4
+glad you:c1
+true love:c1
+great birthday:c1
+misses:c4
+contented:c2
+tired:c3
+hot:c3
+next weekend:c2
+special:c2
+cry:c4
+much love:c1
+sadly:c4
+great job:c1
+great game:c1
+sad I:c4
+dead:c4
+angry:c3
+bad idea:c4
+missed:c4
+good time:c2
+sure:c2
+upset:c3
+beautiful day:c1
+good mood:c2
+much work:c3
+sad part:c4
+nice:c2
+lovely weekend:c1
+love my:c1
+wont work:c3
+relaxing:c2
+happy birthday:c2
+first day:c2
+sweet:c1
+new camera:c2
+busy:c2
+funny movie:c1
+I lost:c3
+tonight:c2
+amazing show:c1
+good reason:c2
+fantastic:c1
+much fun:c1
+excelent:c1
+hard to:c3
+busy day:c2
+high:c2
+great fun:c1
+not arrogent:c2
+great week:c1
+tension:c3
+not bad:c2
+dived:c3
+hate you:c4
+so jealous:c4
+fabulous day:c1
+no worries:c2
+new phone:c2
+sleepy head:c2
+good laugh:c2
+great meeting:c1
+relax:c2
+love to:c1
+Happy:c1
+greatly:c1
+nice work:c2
+suicidal:c4
+bad weather:c4
+Good job:c2
+bad:c3
+joyful:c1
+happy day:c1
+not happy:c3
+last time:c3
+so nice:c2
+sad face:c4
+notvery happy:c3
+I missed:c4
+gloomy:c4
+safe:c2
+true:c2
+sorrow:c4
+lovely time:c1
+wishes:c2
+long day:c2
+very good:c1
+good thank:c2
+can't sleep:c3
+great mood:c1
+great time:c1
+next time:c3
+cute:c1
+enjoy:c1
+dont love:c3
+bad dream:c4
+no sleep:c3
+take care:c2
+annoyed:c3
+not fun:c3
+itchy:c3
+good game:c2
+satisfied:c2
+great start:c1
+great day:c1
+bad thing:c4
+not exciting:c3
+fun day:c1
+cannot:c3
+donot love:c3
+horrible:c4
+thank god:c2
+good care:c2
+safe trip:c2
+favourite:c2
+dont hate:c2
+sad cause:c4
+can sleep:c2
+so happy:c1
+cant wait:c2
+gorgeous weather:c1
+hurts:c3
+funny thing:c1
+good song:c2
+few:c2
+not good:c3
+bad night:c4
+I cant:c3
+great pic:c1
+hard:c3
+sleep but:c3
+wonderful time:c1
+better:c1
+poor baby:c3
+super:c1
+awesome day:c1
+super fun:c1
+be happy:c1
+lovely:c1
+supersad:c4
+bothered:c3
+unlucky:c3
+good work:c2
+late:c3
+cheer up:c2
+so tired:c3
+wonderful day:c1
+proud:c1
+amazing:c1
+different:c3
+good rest:c2
+big day:c1
+special day:c2
+tense:c3
+alone:c3
+thank goodness:c2
+blessed:c1
+bad time:c4
+quiet:c2
+excited:c1
+interesting:c2
+so sorry:c3
+hopeless:c4
+wonderful:c1
+hot weather:c3
+welcome:c2
+hate:c4
+unfortunately:c3
+great one:c1
+no fun:c3
+sad news:c4
+good choice:c2
+awesome night:c1
+doesnt work:c3
+really bad:c4
+feel better:c2
+good weather:c2
+happy weekend:c1
+sick right:c3
+lovely day:c1
+cannot love:c3
+easy:c2
+awesome show:c1
+big:c2
+the worst:c3
+new week:c2
+tired today:c3
+delighted:c1
+sunny morning:c3
+thanks to:c2
+poor guy:c3
+good look:c2
+I miss:c4
+afraid:c3
+good:c2
+old:c3
+have fun:c1
+so sad:c4
+stressful:c3
+amazing weekend:c1
+good weekend:c1
+sad thing:c4
+good today:c2
+fine:c2
+hates:c4
+right:c2
+pretty:c1
+wish:c2
+depress:c4
+great trip:c1
+hopefully:c2
+new computer:c2
+seriously:c3
+cannot help:c3
+disappointed:c4
+long:c2
+busy week:c3
+happy:c1
+nice time:c2
+sad movie:c4
+boring day:c3
+wrong way:c3
+new job:c3
+boring:c3
+great today:c1
+feel sorry:c3
+please:c3
+hard time:c4
+so exciited:c1
+sorry to:c3
+peaceful:c2
+great weather:c1
+nice place:c2
+cold:c2
+own:c2
+Good morning:c2
+safe flight:c2
+pretty cool:c2
+feeling good:c2
+thanks:c2
+fun time:c1
+cant:c3
+asleep:c2
+quite:c2
+not missed:c2
+enthusiastic:c1
+sad today:c4
+hot today:c3
+lucky:c1
+great stuff:c1
+overjoyed:c1
+good stuff:c2
+awesome weekend:c1
+nice weekend:c2
+good thing:c2
+passed away:c4
+nice night:c2
+new album:c2
+awesome:c1
+distress:c3
+free:c2
+distressed:c3
+relaxed:c2
+great evening:c1
+hapless:c4
+great food:c1
+gorgeous:c1
+early:c2
+convinced:c2
+bad day:c4
+beautiful:c1
+good news:c1
+nice weather:c2
+much better:c2
+sick:c3
+nice today:c2
+good fun:c1
+awesome movie:c1
+fall asleep:c2
+love:c1
+help:c2
+miss you:c4
+great movie:c1
+elated:c1
+too tired:c3
+congratulations:c2
+good night:c2
+able:c2
+hot day:c3
+depression:c4
+amazing day:c1
+good right:c2
+fabulous:c1
+cool:c2
+great show:c1
+last day:c3
+good book:c2
+great song:c1
+bad way:c4
+good start:c2
+wrong:c3
+slow day:c3
+good idea:c2
+fearful:c3
+calm:c2
+new moon:c2
+Beautiful day:c1
+officially:c2
+damn sleep:c3
+mad:c3
+care:c2
+nervous:c3
+weird:c4
+worried:c3
+good trip:c2
+good sleep:c2
+nice person:c2
+silent:c2
+so good:c2
+good friend:c2
+nice day:c2
+good morning:c2
+miss my:c4
+bad headache:c4
+not fair:c3
+bored right:c3
+sunny:c3
+wonderful weekend:c1
+glorious day:c1
+awesome job:c1
+hard day:c4
+good weak:c2
+stressful day:c3
+much luck:c1
+good workout:c2
+lazy:c3
+lazy day:c3
+bad today:c4
+good music:c2
+good place:c2
+miss him:c4
+fun:c1
+fatigued:c4
+scary:c3
+amazing time:c1
+good food:c2
+downhearted:c4
+fantastic day:c1
+stupid work:c3
+save:c2
+amazing night:c1
+horrible day:c4
+miserable:c4
+furious:c3
+good point:c2
+perfect:c2
+busy weekend:c3
+pretty good:c1
+loves:c1
+that sucks:c3
+great work:c1
+nice job:c2
+will miss:c4
+super sad:c4
+good hope:c2
+sick today:c3
+good seeing:c2
+great:c1
+worry:c4
+feel bad:c4
+great idea:c1
+so mad:c4
+stupid:c3
+wonderful night:c1
+not feeling:c3
+arrogent:c4
+gonna cry:c4
+doing well:c2
+funny:c1
+cool stuff:c2
+am sad:c4
+feel:c2
+sosad:c4
+bad luck:c4
+irritated:c3
+little:c2
+great place:c1
+didnt sleep:c3
+cheers:c1
+same problem:c3
+poor thing:c3
+nice meeting:c2
+need sleep:c3
+happy girl:c1
+crazy:c1
+beautiful weather:c1
+dont worry:c2
+placid:c2
+glad to:c1
+miss:c4
+very sad:c4
+cute movie:c2
+sunny today:c3
+am sorry:c3
+happy today:c1
+good luck:c2
+am glad:c1
+good call:c2
+hurt:c3
+too bad:c4
+resting:c2
+same time:c2
+great weekend:c1
+miss u:c4
+long time:c2
+bad feeling:c4
+feel good:c2
